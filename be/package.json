@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "pesilat nodejs lesson with biodata project task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "JayKhalid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
